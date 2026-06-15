@@ -1,7 +1,7 @@
 # 🎵 Muse Player - Player de Música MP3 Minimalista
 
-> 🚀 **DOWNLOAD DIRETO DO APK:** O aplicativo já foi compilado! Baixe o instalador `.apk` diretamente da pasta do repositório:
-> **👉 [`/releases/app-debug.apk`](./releases/app-debug.apk)** 👈
+> 🚀 **DOWNLOAD DIRETO DO APK:** O aplicativo já foi compilado! Baixe o instalador `.apk` diretamente da raiz do repositório:
+> **👉 [`/MusePlayer.apk`](./MusePlayer.apk)** 👈
 
 **Muse Player** é um reprodutor de música MP3 elegante, fluído e moderno desenvolvido nativamente para Android utilizando Kotlin e **Jetpack Compose**. Projetado sob os conceitos mais refinados do **Material Design 3 (Elegant Dark)**, o aplicativo oferece uma experiência imersiva com suporte completo a playlists locais e um equalizador de áudio de alta precisão integrado.
 
