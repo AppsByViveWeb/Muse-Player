@@ -1,0 +1,6 @@
+{
+  "name": "Player de Música",
+  "description": "Um reprodutor de música MP3 elegante e minimalista com playlists e equalizador integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
