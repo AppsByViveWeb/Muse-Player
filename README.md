@@ -67,4 +67,4 @@ Se você baixou os códigos ou clonou o repositório do GitHub em seu computador
 - **Android SDK:** Mínimo API 24 (Android 7.0 Nougat) ou superior.
 - **Conectividade:** Permissão de internet declarada no manifesto para streaming de testes online de MP3.
 
-Desenvolvido com carinho para oferecer fidelidade de reprodução sonora e design minimalista em uma única tela. 🖤🎶
+Desenvolvido com carinho para oferecer fidelidade de reprodução sonora e design minimalista em uma única tela. 🖤🎶 Vive Web.
